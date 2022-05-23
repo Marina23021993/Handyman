@@ -18,6 +18,9 @@
   font-size: 5vw;
 }
 .btn{
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 20px 20px;
   background: rgb(7, 240, 123);
   border-radius: 28px;
   display: inline-block;
